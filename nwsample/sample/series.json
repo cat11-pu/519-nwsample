@@ -1,0 +1,103 @@
+{
+  "interval_us": 1000000,
+  "interval_factor": 3,
+  "window_segments": 2,
+  "samples": [
+    {
+      "t_us": 1000000,
+      "counters": {
+        "Tcp.ActiveOpens": 18446744073709546616,
+        "Tcp.InErrs": 10,
+        "Tcp.PassiveOpens": 200,
+        "Udp.InDatagrams": 5000,
+        "Udp.OutDatagrams": 4000
+      }
+    },
+    {
+      "t_us": 2000000,
+      "counters": {
+        "Tcp.ActiveOpens": 18446744073709547016,
+        "Tcp.InErrs": 12,
+        "Tcp.PassiveOpens": 260,
+        "Udp.InDatagrams": 5600,
+        "Udp.OutDatagrams": 4600
+      }
+    },
+    {
+      "t_us": 3000000,
+      "counters": {
+        "Tcp.ActiveOpens": 18446744073709547416,
+        "Tcp.InErrs": 14,
+        "Tcp.PassiveOpens": 320,
+        "Tcp.RetransSegs": 7,
+        "Udp.InDatagrams": 6200,
+        "Udp.OutDatagrams": 5200
+      }
+    },
+    {
+      "t_us": 3500000,
+      "counters": {
+        "Tcp.ActiveOpens": 18446744073709547616,
+        "Tcp.InErrs": 15,
+        "Tcp.PassiveOpens": 350,
+        "Tcp.RetransSegs": 9,
+        "Udp.InDatagrams": 6500,
+        "Udp.OutDatagrams": 5500
+      }
+    },
+    {
+      "t_us": 9000000,
+      "counters": {
+        "Tcp.ActiveOpens": 18446744073709551516,
+        "Tcp.InErrs": 18,
+        "Tcp.PassiveOpens": 1400,
+        "Tcp.RetransSegs": 21,
+        "Udp.InDatagrams": 12500,
+        "Udp.OutDatagrams": 11500
+      }
+    },
+    {
+      "t_us": 10000000,
+      "counters": {
+        "Tcp.ActiveOpens": 384,
+        "Tcp.InErrs": 19,
+        "Tcp.PassiveOpens": 1500,
+        "Tcp.RetransSegs": 23,
+        "Udp.InDatagrams": 13100,
+        "Udp.OutDatagrams": 12100
+      }
+    },
+    {
+      "t_us": 9500000,
+      "counters": {
+        "Tcp.ActiveOpens": 500,
+        "Tcp.InErrs": 20,
+        "Tcp.PassiveOpens": 1520,
+        "Tcp.RetransSegs": 25,
+        "Udp.InDatagrams": 13200,
+        "Udp.OutDatagrams": 12200
+      }
+    },
+    {
+      "t_us": 10400000,
+      "counters": {
+        "Tcp.ActiveOpens": 600,
+        "Tcp.InErrs": 21,
+        "Tcp.PassiveOpens": 1540,
+        "Tcp.RetransSegs": 27,
+        "Udp.InDatagrams": 13300,
+        "Udp.OutDatagrams": 12300
+      }
+    },
+    {
+      "t_us": 11400000,
+      "counters": {
+        "Tcp.ActiveOpens": 700,
+        "Tcp.InErrs": 3,
+        "Tcp.PassiveOpens": 1560,
+        "Tcp.RetransSegs": 30,
+        "Udp.InDatagrams": 13400
+      }
+    }
+  ]
+}
